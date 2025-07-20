@@ -6,7 +6,7 @@ As part of **Task 4** under the **Future Interns Internship**, I explored multip
 
 ## 🌐 Platforms Explored
 
-### 🔹 [PublicAI](https://publicai.xyz/)
+### 🔹 [PublicAI]([https://publicai.xyz/](https://beta.publicai.io/?r=Jc6o6))
 An AI assistant builder where users can earn token rewards by creating and using AI tools.
 
 ### 🔹 [Gradient Network](https://app.gradient.xyz/)
