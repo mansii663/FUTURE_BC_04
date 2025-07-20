@@ -6,19 +6,19 @@ As part of **Task 4** under the **Future Interns Internship**, I explored multip
 
 ## 🌐 Platforms Explored
 
-### 🔹 [PublicAI]
+### 🔹 PublicAI
 An AI assistant builder where users can earn token rewards by creating and using AI tools.
 
-### 🔹 [Gradient Network]
+### 🔹 Gradient Network
 A Web3 analytics platform providing on-chain insights into user behavior and protocol usage.
 
-### 🔹 [OneFootball Club]
+### 🔹 OneFootball Club
 A football token ecosystem that brings sports fans closer to clubs and rewards through digital collectibles and tokens.
 
-### 🔹 [Shaga]
+### 🔹 Shaga
 A DeFi staking platform offering simple staking mechanisms with real token rewards.
 
-### 🔹 [MagicNewton]
+### 🔹 MagicNewton
 An AI + Crypto mission hub where users complete microtasks to earn token-based incentives.
 
 ---
