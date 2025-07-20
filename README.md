@@ -32,5 +32,6 @@ An AI + Crypto mission hub where users complete microtasks to earn token-based i
 - Referral systems and community-based engagement
 
 ---
+## ⭐ Favorite Platform
 
 **Gradient Network** stood out for its intuitive dashboard and real-time blockchain analytics, helping me understand wallet activities, protocol adoption, and token movements.
